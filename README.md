@@ -30,6 +30,8 @@ Firebaseと細かい機能の作成、単体機能結合を担当しました。
 
 <br>
 
+## アプリの画面
+
 トップ
 
 <img src="./img/top.jpg" width="50%">
